@@ -1,0 +1,18 @@
+main: fr.liven.ultimawslinker.Main
+
+name: UltimaWSLinker
+
+description: Account linking service between UltimaWS and UltimaServer.
+
+author: Liven
+
+website: www.groupe-ultima.com
+
+version: 0.2
+
+commands:
+  reqmclink:
+    permission: op
+  tellreqaccepted:
+  unlinkwsmc:
+  acceptlinkreq:

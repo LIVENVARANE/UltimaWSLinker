@@ -1,0 +1,10 @@
+AcceptedReqs:
+  uuidsample:
+    username: sample
+    wsacc: sample
+    req: reqtype  #link or unlink
+SentReqs:
+  uuidsample:
+    username: sample
+    wsacc: sample
+    req: reqtype  #link or unlink
